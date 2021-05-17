@@ -1,7 +1,6 @@
 # Netflix_Sentiment_Analysis
 
-This is a Machine Learning project on the very famous Netflix sentiment analysis using NLP. Based on the reviews given by the customers, we can detimine whether the show or the movie 
-was good or bad.
+This is a Machine Learning project on the very famous Netflix sentiment analysis using NLP. Based on the reviews given by the customers, we can determine whether the show or the movie was good or bad.
 
 Following is the folder structure :
 1. /input
